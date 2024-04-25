@@ -19,8 +19,6 @@ If you are interested in my services or would like more information, please get 
 - Email: ben@bndev.co.uk
 - Discord: @jam1nb3n
 
-P.S. Please don't offer shares as compensation!
-
 <!--
 **bnewmandev/bnewmandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
